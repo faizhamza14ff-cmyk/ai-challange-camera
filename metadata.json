@@ -1,0 +1,7 @@
+{
+  "name": "AI Challenge Camera",
+  "description": "Create. Challenge. Repeat. Turn your moments into AI-powered challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
